@@ -1,0 +1,67 @@
+html, body{
+	font-family: Arial, sans-serif;
+	margin: 0;
+}
+
+header{
+	background-color: #1f33a3;
+	padding: 40px;
+	text-align: center;
+}
+
+h1{
+	font-size: 70px;
+	color: white;
+}
+
+header img{
+	border-radius: 174px;
+	width: 300px;
+	border: 10px solid #1b0330;
+}
+
+.content{
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+img.big-image{
+	max-width: 100%;
+}
+
+p.caption{
+	font-size: 16px;
+	color: indigo;
+	font-style: italic; 
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+a{
+	color: red;
+	text-decoration: none;
+}
+
+footer{
+	padding: 40px 20px;
+	background-color: #E6E6E6;
+}
+
+footer ul{
+	text-align: center;
+}
+
+footer ul li{
+	display: inline-block;
+	margin: 0 5px;
+}
+
+/*<header>
+		<img src="img/profile.jpg">
+		<h1>Vanitas</h1>
+	</header>*/
